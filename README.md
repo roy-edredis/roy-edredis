@@ -18,13 +18,13 @@
 ---
 
 ### :man_technologist: About Me :  
-Hi! my name is Roy and im working as a Cloud Maintainer (CMOPS) at Redis   
+Hi! my name is Roy and im working as a Cloud Maintenance Operator (CMOPS) at Redis   
 B.Sc in Computer Science.
 - 📈: intrested in the Stock market.
 
 - :computer: intrested in the Cloud & Devops section.
 
-- :zap: In my free time, I`m a gamer, and enriching my knowledge with Udemy courses.
+- :zap: In my free time, I`m a gamer, newbie tennis player, and like to enrich my knowledge in the field of DevOps.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
